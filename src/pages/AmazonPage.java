@@ -6,5 +6,7 @@ public class AmazonPage {
 
     // html for search button
 
-    // html fpr deals page
+    // html for deals page
+    
+    // changing line 11
 }
